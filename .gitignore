@@ -2,6 +2,8 @@
 .lh/
 .DS_Store
 node_modules/
+unpublic.js
+tester.js
 
 # Logs
 logs
